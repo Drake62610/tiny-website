@@ -1,0 +1,16 @@
+{{ $permalink := $.Scratch.Get "Permalink" }}
+{{ $title := $.Scratch.Get "Title" }}
+{{ $author := $.Scratch.Get "Author" }}
+{{ $tags := $.Scratch.Get "Tags" }}
+{{ range .Site.Params.socialShare }}
+  {{ if eq . "twitter" }}
+    <!-- TODO: Add Hashtags &amp;hashtags= -->
+    <a href="{{ $permalink }}" target="_blank" rel="noopener" class="nav share-btn twitter">
+        <p>Twitter</p>
+      </a>
+	{{ else if eq . "twitch" }}  
+	<a href="{{ $permalink }}" target="_blank" rel="noopener" class="nav share-btn twitch">
+		<p>Twitch</p>
+	</a>
+  {{ end }}
+{{ end }}

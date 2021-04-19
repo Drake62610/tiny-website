@@ -1,0 +1,3 @@
+[submodule "sm-blog/themes/hugo-future-imperfect-slim"]
+	path = sm-blog/themes/hugo-future-imperfect-slim
+	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
