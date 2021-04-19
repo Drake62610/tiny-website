@@ -1,0 +1,7 @@
+[{
+    "title": "Drake deviens enfin célèbre",
+    "date": "",
+    "description": "Vive Le monde des rappeurs",
+    "body": "Merci Daviyas\n\rLa fonction [emojify] (https://gohugo.io/functions/emojify/) peut être appelée directement dans les modèles ou [Inline Shortcodes] (https://gohugo.io/templates/shortcode-templates/#inline- codes courts).\nPour activer globalement emoji, définissez enableEmoji sur true dans la [configuration] de votre site (https://gohugo.io/getting-started/configuration/), puis vous pourrez taper des codes abrégés emoji directement dans les fichiers de contenu; par exemple.\n 🙈  : see_no_evil:   🙉  : hear_no_evil:    : speak_no_evil:   Le [aide-mémoire Emoji] (http://www.emoji-cheat-sheet.com/) est une référence utile pour les codes abrégés emoji.\n ** N.B.: ** Les étapes ci-dessus permettent d\u0026rsquo;activer des caractères emoji standard Unicode dans Hugo. Toutefois, le rendu de ces glyphes dépend du navigateur et de la plate-forme. Pour dénommer les émoticônes, vous pouvez utiliser une police emoji tierce ou une pile de polices. par exemple.\n.emoji {\rfont-family: Apple Color Emoji, Interface utilisateur Segoe Emoji, NotoColorEmoji, Symbole Segoe UI, Android Emoji, EmojiSymbols;\r} ",
+    "ref": "/blog/test-article/"
+  }]

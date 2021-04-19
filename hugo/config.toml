@@ -1,0 +1,179 @@
+baseurl                 = "http://lion-blanc.com/"
+DefaultContentLanguage  = "fr"
+title                   = "La Tannière du Lion Blanc"
+theme                   = "hugo-future-imperfect-slim"
+paginate                = 3
+disqusShortname         = ""
+googleAnalytics         = ""
+pluralizeListTitles     = false
+disableLanguages        = []
+
+[markup.goldmark.renderer]
+  unsafe                = true
+
+[outputs]
+  home                  = ["html", "json", "rss"]
+
+[params]
+  enableCDN             = false
+  cssFiles              = ["default"]
+  jsFiles               = ["default"]
+  highlightjs           = true
+  highlightjsTheme      = ""
+  highlightjsLang       = []
+  viewMorePostsLink     = "/blog/"
+  readingTime           = true
+  imageStretch          = ""
+  removeBlur            = false
+  socialShare           = ["twitter", "email"]
+  hideEmptyStats        = false
+
+  [params.meta]
+    description         = "Un site sur tout et rien pour passer le temps. Mais surtout sur rien."
+    author              = "Florian MATTE"
+    favicon             = true
+    svg                 = true
+    faviconVersion      = "1"
+    msColor             = "#ffffff"
+    iOSColor            = "#ffffff"
+
+  [params.header]
+    navbarTitle         = "La tannière du Lion Blanc"
+    dynamicTitles       = true
+    searchMenu          = true
+    shareMenu           = true
+    languageMenu        = false
+
+  [params.intro]
+    header                = "La tannière du Lion Blanc"
+    paragraph             = "Un site sur tout et rien pour passer le temps. Mais surtout sur rien."
+    rssIntro              = false
+    socialIntro           = true
+    hideWhenSingleColumn  = false
+    alwaysOnHomepage      = false
+
+    [params.intro.pic]
+      src                 = "/static/img/main/logo.jpg"
+      shape               = "circle"
+      width               = ""
+      alt                 = "Drake Le Lion Blanc"
+
+  [params.sidebar]
+    about               = "Ici je dit un truc interessant mais pas trop."
+    postAmount          = 5
+    categories          = true
+    categoriesByCount   = true
+
+  [params.footer]
+    rssFooter           = false
+    socialFooter        = true
+
+  [params.utterances]
+    enabled             = false
+    repo                = ""
+    issueTerm           = "pathname"
+    issueNumber         = ""
+    label               = "" 
+    theme               = "github-light"
+
+  [params.staticman]
+    enabled             = true
+    api                 = "https://staticman-tanniere.herokuapp.com"  # No Trailing Slash
+    gitProvider         = "github"
+    username            = "Drake62610"
+    repo                = "tiny-website"
+    branch              = "main"
+
+    [params.staticman.recaptcha]
+      siteKey           = ""
+      encryptedKey      = ""
+
+[menu]
+
+  [[menu.main]]
+    name              = "Home"
+    identifier        = "home"
+    url               = "/"
+    pre               = "<i class='fa fa-home'></i>"
+    weight            = 1
+
+  [[menu.main]]
+    name              = "About"
+    identifier        = "about"
+    url               = "/about/"
+    pre               = "<i class='far fa-id-card'></i>"
+    weight            = 2
+
+  [[menu.main]]
+    name              = "Blog"
+    identifier        = "blog"
+    url               = "/blog/"
+    pre               = "<i class='far fa-newspaper'></i>"
+    weight            = 3
+
+  [[menu.main]]
+    name              = "Categories"
+    identifier        = "categories"
+    url               = "/categories/"
+    pre               = "<i class='fas fa-sitemap'></i>"
+    weight            = 5
+
+  [[menu.main]]
+    name              = "Contact"
+    identifier        = "contact"
+    url               = "/contact/"
+    pre               = "<i class='far fa-envelope'></i>"
+    weight            = 6
+
+[Languages]
+
+  [Languages.fr]
+    LanguageCode        = "fr"
+    LanguageName        = "Français"
+    title               = "La tannière du Lion Blanc"
+    weight              = 2
+
+    [[Languages.fr.menu.main]]
+      name              = "Accueil"
+      identifier        = "home"
+      url               = "/"
+      pre               = "<i class='fas fa-home'></i>"
+      weight            = 1
+
+    [[Languages.fr.menu.main]]
+      name              = "A Propos"
+      identifier        = "about"
+      url               = "/about/"
+      pre               = "<i class='far fa-id-card'></i>"
+      weight            = 2
+
+    [[Languages.fr.menu.main]]
+      name              = "Blog"
+      identifier        = "blog"
+      url               = "/blog/"
+      pre               = "<i class='far fa-newspaper'></i>"
+      weight            = 3
+
+    [[Languages.fr.menu.main]]
+      name              = "Catégories"
+      identifier        = "categories"
+      url               = "/categories/"
+      pre               = "<i class='fas fa-sitemap'></i>"
+      weight            = 5
+
+    [[Languages.fr.menu.main]]
+      name              = "Contact"
+      identifier        = "contact"
+      url               = "/contact/"
+      pre               = "<i class='far fa-envelope'></i>"
+      weight            = 6
+
+[social]
+  # Coding Communities
+  github                = "https://github.com/Drake62610"
+  # Social Networks
+  youtube               = "https://www.youtube.com/channel/UCxEhUFS_YKodlF3YgqX4Mmg"
+  twitter               = "https://twitter.com/Drake62610"
+  twitch               = "https://www.twitch.tv/drakelelionblanc"
+  # Email
+  email                 = "example"
