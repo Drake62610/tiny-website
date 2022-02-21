@@ -1,4 +1,4 @@
-baseurl                 = "http://lion-blanc.com/"
+baseurl                 = "http://blog.lion-blanc.com/"
 DefaultContentLanguage  = "fr"
 title                   = "La Tannière du Lion Blanc"
 theme                   = "hugo-future-imperfect-slim"
@@ -16,7 +16,7 @@ disableLanguages        = []
 
 [params]
   enableCDN             = false
-  cssFiles              = ["default"]
+  cssFiles              = ["default", "/static/css/theme.css"]
   jsFiles               = ["default"]
   highlightjs           = true
   highlightjsTheme      = ""
@@ -78,7 +78,7 @@ disableLanguages        = []
 
   [params.staticman]
     enabled             = true
-    api                 = "staticman-tanniere.herokuapp.com"  # No Trailing Slash
+    api                 = "staticman-tanniere.herokuapp.com"  
     gitProvider         = "github"
     username            = "Drake62610"
     repo                = "tiny-website"
@@ -91,7 +91,7 @@ disableLanguages        = []
 [menu]
 
   [[menu.main]]
-    name              = "Home"
+    name              = "La Tannière du Lion Blanc"
     identifier        = "home"
     url               = "/"
     pre               = "<i class='fa fa-home'></i>"
@@ -119,10 +119,10 @@ disableLanguages        = []
     weight            = 5
 
   [[menu.main]]
-    name              = "Contact"
-    identifier        = "contact"
-    url               = "/contact/"
-    pre               = "<i class='far fa-envelope'></i>"
+    name              = "Liens Utiles"
+    identifier        = "links"
+    url               = "/links/"
+    pre               = "<i class='far fa-link'></i>"
     weight            = 6
 
 [Languages]
@@ -174,6 +174,7 @@ disableLanguages        = []
   # Social Networks
   youtube               = "https://www.youtube.com/channel/UCxEhUFS_YKodlF3YgqX4Mmg"
   twitter               = "https://twitter.com/Drake62610"
-  twitch               = "https://www.twitch.tv/drakelelionblanc"
+  twitch                = "https://www.twitch.tv/drakelelionblanc"
+  instagram             = "https://www.instagram.com/l3louch"
   # Email
-  email                 = "example"
+  email                 = "lelionblanc62@gmail.com"
