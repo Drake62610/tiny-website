@@ -1,6 +1,6 @@
 baseurl                 = "http://blog.lion-blanc.com/"
 DefaultContentLanguage  = "fr"
-title                   = "La Tannière du Lion Blanc"
+title                   = "La Tanière du Lion Blanc"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = ""
@@ -38,14 +38,14 @@ disableLanguages        = []
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "La tannière du Lion Blanc"
-    dynamicTitles       = true
+    navbarTitle         = "La Tanière du Lion Blanc"
+    dynamicTitles       = false
     searchMenu          = true
     shareMenu           = true
     languageMenu        = false
 
   [params.intro]
-    header                = "La tannière du Lion Blanc"
+    header                = "La Tanière du Lion Blanc"
     paragraph             = "Un site sur tout et rien pour passer le temps. Mais surtout sur rien."
     rssIntro              = false
     socialIntro           = true
@@ -91,7 +91,7 @@ disableLanguages        = []
 [menu]
 
   [[menu.main]]
-    name              = "La Tannière du Lion Blanc"
+    name              = "La Tanière du Lion Blanc"
     identifier        = "home"
     url               = "/"
     pre               = "<i class='fa fa-home'></i>"
@@ -130,7 +130,7 @@ disableLanguages        = []
   [Languages.fr]
     LanguageCode        = "fr"
     LanguageName        = "Français"
-    title               = "La tannière du Lion Blanc"
+    title               = "La Tanière du Lion Blanc"
     weight              = 2
 
     [[Languages.fr.menu.main]]

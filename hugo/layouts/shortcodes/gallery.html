@@ -1,0 +1,67 @@
+<style>
+  .image-gallery {
+    overflow: auto;
+    margin-left: -1% !important;
+  }
+
+  .image-gallery li {
+    float: left;
+    display: block;
+    margin: 0 0 1% 1%;
+    width: 19%;
+  }
+
+  .image-gallery li a {
+    text-align: center;
+    text-decoration: none !important;
+    color: #777;
+  }
+
+  .image-gallery li a span {
+    display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    padding: 3px 0;
+  }
+
+  .image-gallery li a img {
+    width: 100%;
+    display: block;
+  }
+</style>
+
+
+<ul class="image-gallery">
+  {{ if isset .Params "link1" }}
+  <li>
+    <a href="{{ .Get "link1" }}"
+      class="lightbox-image current gallery">
+      <img src="{{ .Get "link1" }}">
+    </a>
+  </li>
+  {{ end }}
+  {{ if isset .Params "link2" }}
+  <li>
+    <a href="{{ .Get "link2" }}" class="lightbox-image gallery">
+      <img src="{{ .Get "link2" }}">
+    </a>
+  </li>
+  {{ end }}
+  {{ if isset .Params "link3" }}
+  <li>
+    <a href="{{ .Get "link3" }}" class="lightbox-image gallery">
+      <img src="{{ .Get "link3" }}">
+    </a>
+  </li>
+  {{ end }}
+  {{ if isset .Params "link4" }}
+  <li>
+    <a href="{{ .Get "link4" }}" class="lightbox-image gallery">
+      <img src="{{ .Get "link4" }}">
+    </a>
+  </li>
+  {{ end }}
+
+
+</ul>
