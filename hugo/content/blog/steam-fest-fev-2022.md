@@ -230,10 +230,10 @@ Silt semblait s'inscrire dans la belle famille des fameux "Limbo Like", mais au 
 Sur le papier c'est vachement bien mais dans l'execution ça manque cruellement de jus. Outre la DA rien ne brille vraiment ici, je ne sais pas quelle histoire on veux me raconter, je ne trouve pas les énigmes fun ni même pour certaines intuitive et je ne me sens absolement pas submergé (LOL) dans l'univers du jeu.
 
 {{< gallery 
-link1="https://i.imgur.com/YzoYftx.jpg" 
-link2="https://i.imgur.com/zP1ip0H.jpg" 
-link3="https://i.imgur.com/xgjnYbB.jpg" 
-link4="https://i.imgur.com/2zk1HZ8.jpg">}}
+link1="https://i.imgur.com/QuYI608.jpg" 
+link2="https://i.imgur.com/3W6Lqqc.jpg" 
+link3="https://i.imgur.com/QZFSs4E.jpg" 
+link4="https://i.imgur.com/X2TjCPz.jpg">}}
 
 J'ai donc pas mal trainé les pieds durant la démo et j'ai été franchement refroidi par cette application bête de la formule Limbo. Et je trouve ça vraiment domamge car le potentiel était clairement là. 
 Je redonnerai certainement une seconde chance au jeu un de ces jours mais il n'est plus une priorité dans ma liste d'envie. J'ai bon espoir que le début soit juste très mou et que le jeu évolue vers le bon une fois que l'univers commence à se dévoiler.
@@ -248,7 +248,17 @@ linkcaption="Steam" link="https://store.steampowered.com/app/1099640/Jack_Move/"
 >
 > **ÉDITION** : Devolver Digital
 
+Je n'ai pas grand chose à dire sur cette démo car il faut se le dire elle était très radin en contenu. Jack Move nous plonge dans un univers Cyberpunk assez classique et qui revisite les rpg à tour par tour tout en conservant les grandes bases. Je ne pense pas que ça plaira à tout le monde, c'était fun mais je ne pense pas que ce genre de jeu très lourd par son gameplay ne soient sous son meilleur jours au début du jeu. Ici les spécificité sont font vite remarquer comme les tours de jeu affiché en haut à droite ou l'équipement en temps réel des "sorts" que l'ont peut lancer. Mais très vite tous les tours de jeux se ressemblent. Au final cette démo n'as pas grand chose pour elle si ce n'est que la beauté indéniable de cette DA.
+
+{{< gallery 
+link1="https://i.imgur.com/9QJJi3u.png" 
+link2="https://i.imgur.com/hSaWpEJ.jpg" 
+link3="https://i.imgur.com/mRjwqew.jpg" 
+link4="https://i.imgur.com/BXvSj9A.jpg">}}
+
 # Des bonnes démos {#good}
+
+Vous l'avez peut-être lu, oui il n'y a aps que des bonnes surprises.. Mais honnetement j'ai été très gaté sur ce festival, ici j'ai noté toutes les démos qui étaient cools, des bonnes découvertes, des moments plaisants quoi.
 
 ## A Little To The Left - !Unpacking
 
@@ -256,10 +266,17 @@ linkcaption="Steam" link="https://store.steampowered.com/app/1099640/Jack_Move/"
 linkcaption="Steam" link="https://store.steampowered.com/app/1629520/A_Little_To_The_Left/">}}
 > **DATE DE PARUTION** : 2022
 >
-> **DÉVELOPPEMENT** : Nerial
+> **DÉVELOPPEMENT** : Max Inferno
 >
-> **ÉDITION** : Devolver Digital
+> **ÉDITION** : Secret Mode
 
+J'y ai joué le premier jour car je l'attendais vraiment beaucoup à cause de son concept assez original. Un puzzle game dans lequel chaque tableau nous demandera de ranger les éléments présents.
+J'y ai joué quelques 30minutes et bien que ce genre de jeux soient ma bête noire car je suis nul pour résoudre des énigmes **rapidement**, j'y ai pris beaucoup de plaisir. Le jeu est très simple, très épuré et bien que je conteste que le jeu n'acceptent pas certaines de mes solutions il reste très fun.
+{{< gallery 
+link1="https://i.imgur.com/mnVudZC.jpg" 
+link2="https://i.imgur.com/PDkNrhi.jpg" 
+link3="https://i.imgur.com/0O8kSQa.jpg" 
+link4="https://i.imgur.com/TblvUGy.jpg">}}
 
 ## FAR: Changing Tides - Limbo like sur un bateau
 
@@ -271,6 +288,12 @@ linkcaption="Steam" link="https://store.steampowered.com/app/1570010/FAR_Changin
 >
 > **ÉDITION** : Devolver Digital
 
+Merci à Mathéos de m'avoir proposé de tester celui là car sinon je serai complétement passé à coté. FAR est la suite d'un autre jeu **Far: Lone Sails** du même type. Pour présenter le jeu brievement je dirais que c'est un Limbo-Like avec un bateau rigolo. 
+{{< gallery 
+link1="https://i.imgur.com/jK3neqP.jpg" 
+link2="https://i.imgur.com/qVLaqNO.jpg" 
+link3="https://i.imgur.com/vXSULjC.jpg" 
+link4="https://i.imgur.com/3ZhXOD3.jpg">}}
 
 ## Doors Paradox
 
@@ -282,6 +305,11 @@ linkcaption="Steam" link="https://store.steampowered.com/app/1622770/Doors_Parad
 >
 > **ÉDITION** : Devolver Digital
 
+{{< gallery 
+link1="https://i.imgur.com/YAyLuW0.jpg" 
+link2="https://i.imgur.com/8tN5Cmz.jpg" 
+link3="https://i.imgur.com/0iIXomo.jpg" 
+link4="https://i.imgur.com/e3pH6Fu.jpg">}}
 
 ## Nobody - The Turnaround
 
@@ -293,6 +321,11 @@ linkcaption="Steam" link="https://store.steampowered.com/app/1810580/Nobody__The
 >
 > **ÉDITION** : Devolver Digital
 
+{{< gallery 
+link1="https://i.imgur.com/PKRzB4a.jpg" 
+link2="https://i.imgur.com/eXuVLeU.jpg" 
+link3="https://i.imgur.com/uAohh8O.jpg" 
+link4="https://i.imgur.com/6pbhc9U.jpg">}}
 
 ## Cat Cafe Manager
 
@@ -304,7 +337,11 @@ linkcaption="Steam" link="https://store.steampowered.com/app/1354830/Cat_Cafe_Ma
 >
 > **ÉDITION** : Devolver Digital
 
-
+{{< gallery 
+link1="https://i.imgur.com/7Qe4MHf.jpg" 
+link2="https://i.imgur.com/d9h7dI3.jpg" 
+link3="https://i.imgur.com/PBMWLoj.jpg" 
+link4="https://i.imgur.com/3cYrr3K.jpg">}}
 
 # Les bonnes surprises {#surprised}
 
@@ -318,6 +355,11 @@ linkcaption="Steam" link="https://store.steampowered.com/app/1634860/Minishoot/"
 >
 > **ÉDITION** : Devolver Digital
 
+{{< gallery 
+link1="https://i.imgur.com/lBOtml7.jpg" 
+link2="https://i.imgur.com/bB2cOsC.jpg" 
+link3="https://i.imgur.com/4KGG1F1.jpg" 
+link4="https://i.imgur.com/2xINCzv.jpg">}}
 
 ## Puzzle for Clef : banger de jeu d'exploration/reflexion, c'est ultra mignon et les énigmes sont vraiment giga stylé j'ai kiffé la démo
 
@@ -329,8 +371,13 @@ linkcaption="Steam" link="https://i.imgur.com/P8fDdD5.jpg">}}
 >
 > **ÉDITION** : Devolver Digital
 
+{{< gallery 
+link1="https://i.imgur.com/M7YRff8.jpg" 
+link2="https://i.imgur.com/g7qkdUG.jpg" 
+link3="https://i.imgur.com/M6MxhEf.jpg" 
+link4="https://i.imgur.com/1Hx1iOb.jpg">}}
 
-## Lost in Fantaland, 
+## Lost in Fantaland 
 
 {{< img src="https://i.imgur.com/c9JAqIW.jpg"
 linkcaption="Steam" link="https://store.steampowered.com/app/1266430/_Lost_In_Fantaland/">}}
@@ -342,6 +389,12 @@ linkcaption="Steam" link="https://store.steampowered.com/app/1266430/_Lost_In_Fa
 
 Un rogue lite entre slay the spyre et into the breach, au début j'était dubitatif mais le jeu est vraiment très adictif au final et ça marche bien mais faut aimer le genre du T-rpg. +1 pour la da léchée
 
+{{< gallery 
+link1="https://i.imgur.com/Rw3nEQI.jpg" 
+link2="https://i.imgur.com/TjuyUfV.jpg" 
+link3="https://i.imgur.com/LXVq8vh.jpg" 
+link4="https://i.imgur.com/qZENEKA.jpg">}}
+
 ## Nova Island
 
 {{< img src="https://i.imgur.com/MyzwJ7d.jpg"
@@ -352,10 +405,15 @@ linkcaption="Steam" link="https://store.steampowered.com/app/1501610/Nova_Island
 >
 > **ÉDITION** : Devolver Digital
 
+{{< gallery 
+link1="https://i.imgur.com/OKHmc8z.jpg" 
+link2="https://i.imgur.com/gdmoEpG.jpg" 
+link3="https://i.imgur.com/32r113I.jpg" 
+link4="https://i.imgur.com/1Abtuqp.png">}}
 
 ## Hellslave
 
-{{< img src="https://i.imgur.com/yGxnGPt.jpg"
+{{< img src="https://i.imgur.com/TBVne9C.jpg"
 linkcaption="Steam" link="https://store.steampowered.com/app/1608450/Hellslave/">}}
 > **DATE DE PARUTION** : 2022
 >
@@ -363,8 +421,13 @@ linkcaption="Steam" link="https://store.steampowered.com/app/1608450/Hellslave/"
 >
 > **ÉDITION** : Devolver Digital
 
+{{< gallery 
+link1="https://i.imgur.com/zkZYzay.jpg" 
+link2="https://i.imgur.com/E0CLDJB.jpg" 
+link3="https://i.imgur.com/P5I4bRy.jpg" 
+link4="https://i.imgur.com/ooAye6t.jpg">}}
 
-## Lost Play
+## Lost in Play
 
 {{< img src="https://i.imgur.com/CqjSXY7.jpg"
 linkcaption="Steam" link="https://store.steampowered.com/app/1328840/Lost_in_Play/">}}
@@ -374,5 +437,8 @@ linkcaption="Steam" link="https://store.steampowered.com/app/1328840/Lost_in_Pla
 >
 > **ÉDITION** : Devolver Digital
 
-
-
+{{< gallery 
+link1="https://i.imgur.com/uEEA7qs.jpg" 
+link2="https://i.imgur.com/ivMSwms.jpg" 
+link3="https://i.imgur.com/6IOelX0.jpg" 
+link4="https://i.imgur.com/Z08fYm0.jpg">}}
