@@ -288,7 +288,8 @@ linkcaption="Steam" link="https://store.steampowered.com/app/1570010/FAR_Changin
 >
 > **ÉDITION** : Devolver Digital
 
-Merci à Mathéos de m'avoir proposé de tester celui là car sinon je serai complétement passé à coté. FAR est la suite d'un autre jeu **Far: Lone Sails** du même type. Pour présenter le jeu brievement je dirais que c'est un Limbo-Like avec un bateau rigolo. 
+Merci à Mathéos de m'avoir proposé de tester celui là car sinon je serai complétement passé à coté. FAR est la suite d'un autre jeu **Far: Lone Sails** du même type. Pour présenter le jeu brievement je dirais que c'est un Limbo-Like avec un bateau rigolo. Le rythme est assez lent mais si vous aimer le contemplatif vous devriez tester le jeu. L'originalité viens du fait que l'on conduit le bateau dans le monde de FAR et explore les différents arrêts que l'on va rencontrer afin de continuer de progresser dans l'aventure.
+Il est sorti depuis cette démo en entier sur le gamepass.
 {{< gallery 
 link1="https://i.imgur.com/jK3neqP.jpg" 
 link2="https://i.imgur.com/qVLaqNO.jpg" 
@@ -304,6 +305,9 @@ linkcaption="Steam" link="https://store.steampowered.com/app/1622770/Doors_Parad
 > **DÉVELOPPEMENT** : Nerial
 >
 > **ÉDITION** : Devolver Digital
+
+Ce jeu est un bon jeu pour discuter avec des potes sur discord ou juste pour se détendre. Il s'agit d'un jeu d'énigme qui va reprendre des mechaniques de point & click. Le joueur se trouve devant une porte, en observant ses alentours, en interargissant avec les objets et en resolvant les nombreuses énigme le but final sera d'ouvrir cette porte afin de passer au niveau suivant.
+J'ai bien aimé faire la démo, chaque niveau arbore une ambiance différente du précédents et les énigmes sont sympatiques bien que parfois innintuitive (mais bon c'est un point & click quoi..). Bien sur l'aspect répétitif du jeu peu en refroidir plus d'un.
 
 {{< gallery 
 link1="https://i.imgur.com/YAyLuW0.jpg" 
@@ -321,6 +325,8 @@ linkcaption="Steam" link="https://store.steampowered.com/app/1810580/Nobody__The
 >
 > **ÉDITION** : Devolver Digital
 
+Je n'ai pas joué longtemps à cette démo car le jeu m'a paru ultra complet et complexe. En effet dès le lancement du jeu après s'être fait bombardé de nombreux dialogue on comprends que l'on joue un personnage qui a eu sacré dette, et donc il va nous falloir se débrouiller pour rembourser ça en évoluant en ville, en organisant son calendrier et en saisissant les nombreuses opportunités qui se présenterons à notre personnages via des évenements. Ce jeu qui se veut très réaliste m'as bien foutu le cafard, mais une chose est certaines, si il tiens ses promesses alors ce sera un excellent jeu mais qui ne conviendra clairement pas à tous.
+
 {{< gallery 
 link1="https://i.imgur.com/PKRzB4a.jpg" 
 link2="https://i.imgur.com/eXuVLeU.jpg" 
@@ -337,6 +343,8 @@ linkcaption="Steam" link="https://store.steampowered.com/app/1354830/Cat_Cafe_Ma
 >
 > **ÉDITION** : Devolver Digital
 
+Quel jeu fantastique, j'aurais aimé continuer d'y jouer plus longtemps et j'ai vraiment hâte de me le procurer. Il s'agit d'un jeu où vous serez au manette de votre propre café à chat. Il faudra alors contruire le batiment, l'agencer, le décorer, s'occuper du stock, des commandes et surtout faire en sorte que tout cela conviennent à vos nombreux chats qui habiterons le café ! Malheuresement le principal problème du jeu c'est qu'il ne va pas au fond de ses idées et parait souvent "incomplet". J'ai trouvé le jeu très chill, bien que le tuto dure longtemps il prends le temps de présenter tout ce qu'il y a à faire dans cette ville et j'ai été surpris de voir un aspect scenaristique accompagné de persos hauts en couleurs s'ajouter à tout ça. Je pense que le jeu est une bonne base, il va certainement acceuillir de nombreuse mises à jour pour combler les petits manques par-ci et par là, nottament l'aspect gestion des animaux.
+
 {{< gallery 
 link1="https://i.imgur.com/7Qe4MHf.jpg" 
 link2="https://i.imgur.com/d9h7dI3.jpg" 
@@ -345,7 +353,7 @@ link4="https://i.imgur.com/3cYrr3K.jpg">}}
 
 # Les bonnes surprises {#surprised}
 
-## Minishoot' (shmup, dongeon crawler, banger), 
+## Minishoot'
 
 {{< img src="https://i.imgur.com/LkY7B39.jpg"
 linkcaption="Steam" link="https://store.steampowered.com/app/1634860/Minishoot/">}}
@@ -354,6 +362,9 @@ linkcaption="Steam" link="https://store.steampowered.com/app/1634860/Minishoot/"
 > **DÉVELOPPEMENT** : Nerial
 >
 > **ÉDITION** : Devolver Digital
+
+Ce jeu est un pur banger, je n'y aurais jamais cru comme ça mais sous ses airs de shooter apparent il s'agit d'un jeu qui propose une vrai evolution dans le gameplay via des capacités que votre vaisseau gagnera au fil de l'exploration du monde ou des dongeons. Comme vous l'aurez peut-être compris le jeu est une sorte de fusion entre shooter de Zelda. Et honnetement c'est simple sur le papier mais quel plaisir manette en main. La démo s'arrete à la fin du premier dongeon et déjà à ce moment on trouve pleins de bonne petites idées sur le level design, le gameplay et en plus quelques petites séquences de boss vraiment cool.
+J'ai vraiment hate que le jeu sorte je vais le dévorer je pense.
 
 {{< gallery 
 link1="https://i.imgur.com/lBOtml7.jpg" 
@@ -371,6 +382,8 @@ linkcaption="Steam" link="https://i.imgur.com/P8fDdD5.jpg">}}
 >
 > **ÉDITION** : Devolver Digital
 
+Puzzle For Clef m'as complétement pris au dépourvu, moi qui ne suit pas très friand de jeu d'enigme "traditionel" et encore moins de point and click et bien j'ai été bien surpris. Nous incarnons clef qui évolue dans plusieurs tableau relé entre eux par plusieures énigmes. En utilisant le journal de clef nous auront plusieurs piste à suivre jusqu'à terminer le tout et passer aux prochains ensemble de tableau. Vraiment pour un jeu de ce genre j'ai été abasourdit par la qualité des énigmes et surotut par la clarté de leur présentation. A aucun moment je me suis senti "perdu", je savais toujours sur quoi réfléchir et franchement c'est très agréable pour ce genre de jeu où j'ai l'habitude de tourner en rond ou juste regarder une soluce car les énigmes sont impossible ou juste mal designé
+
 {{< gallery 
 link1="https://i.imgur.com/M7YRff8.jpg" 
 link2="https://i.imgur.com/g7qkdUG.jpg" 
@@ -387,7 +400,9 @@ linkcaption="Steam" link="https://store.steampowered.com/app/1266430/_Lost_In_Fa
 >
 > **ÉDITION** : Devolver Digital
 
-Un rogue lite entre slay the spyre et into the breach, au début j'était dubitatif mais le jeu est vraiment très adictif au final et ça marche bien mais faut aimer le genre du T-rpg. +1 pour la da léchée
+Un rogue lite entre slay the spyre et into the breach, au début j'était dubitatif mais le jeu est vraiment très adictif au final et ça marche bien mais faut aimer le genre du T-rpg. Le jeu est très addictif et je pense qu'il ferait mieux que je ne le récupère pas à sa sorti car il y a moyen que ce genre de rogue me fasse disparaitre une bonne semaine.
+Le mélange des genre rogue et T-RPG en tout cas est vraiment très apréciable, si vous aimez ces deux genre (surtout le second) je vous conseille d'y jeter un coup d'oeil.
+Mention spéciale pour cette magnifique DA tout en pixel !
 
 {{< gallery 
 link1="https://i.imgur.com/Rw3nEQI.jpg" 
@@ -405,6 +420,9 @@ linkcaption="Steam" link="https://store.steampowered.com/app/1501610/Nova_Island
 >
 > **ÉDITION** : Devolver Digital
 
+Ce jeu est un traquenard, j'ai voulu le tester comme les autres sur 30min voir 1 heure.. Et bien j'y ai passé plus de 4h et j'ai du me forcer d'arréter... Quel plaisir ce jeu, il s'agit d'un forager-like avec la touche d'automatisation qui manquait. Bref ai-je besoin d'en ajouter plus pour justifier que le jeu vaut le coup ?
+Sur ma partie j'ai débloquer une grande quantité d'île et j'ai pu allez assez loin dans les arbres technologique, et même après 4h le tout ne cesse de se complexifier et necessitera de bien s'organiser sur les différentes îles afin de continuer de progresser.
+
 {{< gallery 
 link1="https://i.imgur.com/OKHmc8z.jpg" 
 link2="https://i.imgur.com/gdmoEpG.jpg" 
@@ -421,6 +439,10 @@ linkcaption="Steam" link="https://store.steampowered.com/app/1608450/Hellslave/"
 >
 > **ÉDITION** : Devolver Digital
 
+Clairement une des plus grosse claque esthétique de toutes ces démo. Hellslave est d'un beauté à couper le souffle, chaque nouvelle image assied un peu plus cette ambiance lugubre de dark fantasy qui semble imiter darkest dungeon et les comics les plus sombre d'époque.
+Le jeu lui est vraiment intriguant, que ce soit par sa manière de raconter son histoire via des interface de plan et scenes figé (permettant d'appuyer encore plus dessins magnifique) ou encore par sa manière de gérer les combats qui fait très rétro rpg/dungon crawler mais clairement a été repenser pour les goûts d'aujourd'hui.
+Bref foncez !
+
 {{< gallery 
 link1="https://i.imgur.com/zkZYzay.jpg" 
 link2="https://i.imgur.com/E0CLDJB.jpg" 
@@ -436,6 +458,9 @@ linkcaption="Steam" link="https://store.steampowered.com/app/1328840/Lost_in_Pla
 > **DÉVELOPPEMENT** : Nerial
 >
 > **ÉDITION** : Devolver Digital
+
+Le meilleur pour la fin, autant j'ai adoré beaucoup de jeu durant ce festival, autant aucun n'arrive à la cheville de Lost in Play. Il s'agit d'un point & click très classique dans son gameplay. L'attrait que j'ai eu pour ce titre c'est très clairement son esthetique dessin animés. Tout est magnifique et hyper bien léché, toutes les animations sont vraiment géniale et le tout me rends très nostalgique d'une époque où je dévorait ce genre de point and click. L'aventure qu'on nous propose est simplement celle qu'un enfant s'imagine lorsqu'il joue. Ici il s'agit d'un frère et d'une soeur que nous allons jouer à tour de rôle dans des prémisses bien différents.
+J'ai vraiment adoré l'ensemble de la démo, que ce soit les énigmes très juste, la DA globale, l'aventure enfantine. J'ai un excellent feeling sur ce jeu et je le ferai dès sa sortie bien sur !
 
 {{< gallery 
 link1="https://i.imgur.com/uEEA7qs.jpg" 

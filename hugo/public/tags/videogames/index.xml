@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>videogames on La tannière du Lion Blanc</title><link>http://blog.lion-blanc.com/tags/videogames/</link><description>Recent content in videogames on La tannière du Lion Blanc</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://blog.lion-blanc.com/tags/videogames/index.xml" rel="self" type="application/rss+xml"/><item><title>Omori - Je chiale encore</title><link>http://blog.lion-blanc.com/blog/omori/</link><pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate><guid>http://blog.lion-blanc.com/blog/omori/</guid><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>videogames on La Tanière du Lion Blanc</title>
+    <link>http://blog.lion-blanc.com/tags/videogames/</link>
+    <description>Recent content in videogames on La Tanière du Lion Blanc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 27 Feb 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.lion-blanc.com/tags/videogames/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Steam Neo Fest - Ce que j&#39;ai testé</title>
+      <link>http://blog.lion-blanc.com/blog/steam-fest-fev-2022/</link>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.lion-blanc.com/blog/steam-fest-fev-2022/</guid>
+      <description>J&amp;rsquo;aime vraiment beaucoup ces nouvelles habitudes que prends steam avec ses festivals. Comme les précédentes éditions il s&amp;rsquo;agit d&amp;rsquo;une semaine où la front page de steam se retrouve bombardé de démo de jeux de toutes part, l&amp;rsquo;occasion d&amp;rsquo;en tester un maximum que ce soit pour confirmer de grosses attentes ou juste se laisser aller et découvrir un maximum ! Bien sur j&amp;rsquo;ai testé uniquement ce qui m&amp;rsquo;interessait et au vu de la petite fenêtre temporelle que ce festival nous octroit c&#39;était compliqué de tout couvrir.</description>
+    </item>
+    
+    <item>
+      <title>Omori - Je chiale encore</title>
+      <link>http://blog.lion-blanc.com/draft/omori/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.lion-blanc.com/draft/omori/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
